@@ -16,7 +16,9 @@
                     <h5 class="card-title">Plano VIP</h5>
                     <p class="card-text">✅ Cadastro comum na plataforma sem taxa de comissão 0%</p>
                     <h4 class="text-primary">R$ 89,90/mês</h4><br>
-                    <a href="https://buy.stripe.com/00g5nP5qa1jL8y44gi" class="btn btn-primary">Assinar</a>
+                    <div class="d-grid gap-2">
+                        <a href="https://buy.stripe.com/00g5nP5qa1jL8y44gi" class="btn btn-primary">Assinar</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -28,7 +30,9 @@
                     <h5 class="card-title">Plano Prime</h5>
                     <p class="card-text">✅ Aparece no topo do ranking sem taxa de comissão 0%</p>
                     <h4 class="text-primary">R$ 129,90/mês</h4><br>
-                    <a href="https://buy.stripe.com/9AQ9E52dYfaBbKg003" class="btn btn-success">Assinar</a>
+                    <div class="d-grid gap-2">
+                        <a href="https://buy.stripe.com/9AQ9E52dYfaBbKg003" class="btn btn-success">Assinar</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -40,7 +44,9 @@
                     <h5 class="card-title">Plano Master Class ⭐</h5>
                     <p class="card-text">✅ Topo do ranking + Selo de verificação + Destaque sem taxa de comissão 0%</p>
                     <h4 class="text-warning">R$ 249,90/mês</h4><br>
-                    <a href="https://buy.stripe.com/5kAcQh8Cm3rT4hO8wA" class="btn btn-warning text-white pulse-button">Assinar</a>
+                    <div class="d-grid gap-2">
+                        <a href="https://buy.stripe.com/5kAcQh8Cm3rT4hO8wA" class="btn btn-warning text-white pulse-button">Assinar</a>
+                    </div>
                 </div>
             </div>
         </div>
