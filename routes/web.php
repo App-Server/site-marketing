@@ -3,8 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SiteController;
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/cursos', function () {
+    return view('site.course');
 });
 
 Route::get('/nossos-planos', function () {
